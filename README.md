@@ -6,7 +6,7 @@ files based on given conditions.
 
 The project's actively being developed and more features are planned to be added. 
 
-## Features
+# Features
 
 Currently, the program supports the following commands:
 - `groupby` - easy grouping files into subfolders
@@ -41,7 +41,7 @@ fl show -sort-by size -e docx,xlsx,pptx --desc
 ![command-help.png](assets/command-help.png)
 
 
-## How to run
+# How to run
 
 The program requires Python 3 to be installed on the local machine.
 Packaging the application and uploading to the PyPI repository is planned. For the time being, you'll need to follow
@@ -70,7 +70,7 @@ implementation
     py path/to/fl.py show --help
     ```
 
-## Roadmap
+# Roadmap
 
 Since the project is in a state of active development, many more features are going to be added in the near future.
 Among the most important ones are:
